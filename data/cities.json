@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "b1b2",
+      "cityName": "Kasba Tadla",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-09-18T09:33:29.828Z",
+      "notes": "my fucking city \n",
+      "position": {
+        "lat": "32.612234989123664",
+        "lng": "-6.267060995972123"
+      }
+    },
+    {
+      "id": "eda1",
+      "cityName": "Tamaloukt",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-09-22T18:36:39.694Z",
+      "notes": "good",
+      "position": {
+        "lat": "30.633549638030736",
+        "lng": "-8.750610351562502"
+      }
+    }
+  ]
+}
